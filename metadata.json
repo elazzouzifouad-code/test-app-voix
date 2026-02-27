@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Studio Vocal Professionnel",
+  "description": "Système de production audio haute fidélité pour voix off multilingues.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
